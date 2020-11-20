@@ -1,3 +1,3 @@
 # AI-Basics---Machine-Learning
 
-Install requirements.txt to run Machine Learning Notebook.
+Install packages in requirements.txt to run Machine Learning Notebook.
